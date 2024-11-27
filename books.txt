@@ -1,0 +1,25 @@
+To Kill a Mockingbird,J.B. Lippincott & Co.,978-0061120084,Harper Lee,15,Fiction
+1984,Secker & Warburg,978-0451524935,George Orwell,22,Dystopian
+The Great Gatsby,Charles Scribner's Sons,978-0743273565,F. Scott Fitzgerald,18,Classic
+The Catcher in the Rye,Little, Brown and Company,978-0316769488,J.D. Salinger,12,Fiction
+Pride and Prejudice,T. Egerton, Whitehall,978-1503290563,Jane Austen,25,Romance
+The Hobbit,George Allen & Unwin,978-0547928227,J.R.R. Tolkien,30,Fantasy
+Moby-Dick,Richard Bentley,978-1503280786,Herman Melville,8,Adventure
+Harry Potter and the Sorcerer's Stone,Scholastic Press,978-0590353427,J.K. Rowling,40,Fantasy
+The Hunger Games,Scholastic Press,978-0439023528,Suzanne Collins,35,Dystopian
+Brave New World,Chatto & Windus,978-0060850524,Aldous Huxley,19,Dystopian
+The Lord of the Rings: The Fellowship of the Ring,George Allen & Unwin,978-0618260584,J.R.R. Tolkien,50,Fantasy
+The Shining,Doubleday,978-0307743657,Stephen King,14,Horror
+Sapiens: A Brief History of Humankind,Harper,978-0062316097,Yuval Noah Harari,28,Non-fiction
+The Alchemist,HarperOne,978-0062315007,Paulo Coelho,33,Fiction
+Educated,Random House,978-0399590504,Tara Westover,11,Memoir
+The Outsiders,Viking Press,978-0142407332,S.E. Hinton,26,YA
+The Road,Alfred A. Knopf,978-0307387899,Cormac McCarthy,13,Post-apocalyptic
+Fahrenheit 451,Ballantine Books,978-1451673319,Ray Bradbury,17,Dystopian
+The Book Thief,Knopf Books for Young Readers,978-0375842207,Markus Zusak,21,Historical Fiction
+The Girl on the Train,Riverhead Books,978-1594633669,Paula Hawkins,24,Thriller
+The Silent Patient,Celadon Books,978-1250301697,Alex Michaelides,19,Psychological Thriller
+Where the Crawdads Sing,G.P. Putnam's Sons,978-0735219090,Delia Owens,27,Mystery
+Circe,Little, Brown and Company,978-0316339142,Madeline Miller,16,Fantasy
+The Night Circus,Doubleday,978-0385534642,Erin Morgenstern,22,Fantasy
+All the Light We Cannot See,Scribner,978-1501173219,Anthony Doerr,18,Historical Fiction

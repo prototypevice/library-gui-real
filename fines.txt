@@ -1,0 +1,10 @@
+Charles Leclerc,0.0
+Max Verstappen,0.0
+Jeff Soriano,0.0
+Lewis Hamilton,0.0
+Daryl Gonzales,0.0
+Maxine Abento,0.0
+Don Tolliver,0.0
+Brent Faiyaz,0.0
+Joey Capistrano,0.0
+Sean Lopez,0.0
